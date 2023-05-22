@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vinicius Zavitoski
 
-- 📚Estudante FullStack
+- 📚Estudante Front-End
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniZavitoski&show_icons=true&theme=dark)
