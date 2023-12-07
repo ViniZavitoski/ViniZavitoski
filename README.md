@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Vinicius Zavitoski
 
-- 📚Estudante de Programacao 
+- 📚 just a programming student
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniZavitoski&show_icons=true&theme=dark)
