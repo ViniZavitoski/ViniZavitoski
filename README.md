@@ -4,8 +4,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniZavitoski&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniZavitoski&layout=dark&theme=dark)](https://github.com/ViniZavitoski/github-readme-stats)
-
 
 
 
