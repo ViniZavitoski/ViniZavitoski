@@ -1,8 +1,3 @@
-## Olá! Eu sou o Vinicius Zavitoski
-
-- 📚 just a programming student
-
-
 <img align="center" style="margin-bottom:100px" width=100% src="[[(https://github.com/ViniZavitoski/ViniZavitoski/blob/main/github-header-image%20(2).png)]](https://github.com/ViniZavitoski/ViniZavitoski/blob/main/github-header-image%20(2).png)" />
 &nbsp;&nbsp;&nbsp;
 
