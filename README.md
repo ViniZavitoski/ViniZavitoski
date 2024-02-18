@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ViniZavitoski/ViniZavitoski/blob/main/github-header-image%20(2).png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node.js to frontend development using JavaScriptES6+ , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack low-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node.js to frontend development using JavaScriptES6+,HTML,CSS(Bulma or Bootstrap) and SASS , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack low-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ViniZavitoski&theme=radical&mode=weekly" />
